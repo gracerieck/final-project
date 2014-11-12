@@ -10,40 +10,88 @@
   box-sizing: border-box;
 }
 
-/* set the default color, font-size, and line height */
 html {
   color: #333;
   font-size: 1em;
   line-height: 1.4;
 }
 
-/* make images and embedded media fluid */
 img,
 object {
   max-width: 100%;
 }
 
-/* type hierarchy- change for your project */
-h1 {
-  font-size: 3em; /* 48px */
-}
+/*Put style here
 
-h2 {
-  font-size: 2.25em /* 36px */
-}
+Butter Cream #EDE56A
+Faded Lost Boy #67CACC
+Pink Cocolate #E09BB2
+Of Ice and Snow #B7EAC3
+Verd #91F4AC
 
-h3 {
-  font-size: 1.75em /* 28px */
-}
+*/
 
-h4 {
-  font-size: 1.125em /*18px */
-}
+body {
+    
+    }
 
-/* =======================================
-    author styles
-    place your custom styles below here
-========================================== */
+    h1 {
+        font-size: 3em; /* 48px */
+        }
+    h2 {
+        font-size: 2.25em; /* 36px */
+        }
+    h3 {
+        font-size: 1.75em; /* 28px */
+        }
+    h4 {
+        font-size: 1.125em; /*18px */
+        }
+    .navbar {
+        background-color: #eeeeee;
+        width: 100%;
+        height: 120px;
+        padding: 20px 20px 20px 20px;
+        border: 5px solid #91F4AC;
+        }
+    .home {
+        float: left;
+        margin: ;
+        width: 100px;
+        height: auto;
+        padding: 20px 20px 20px 20px;
+        border: 5px solid #91F4AC;
+        text-align: center; 
+        }   
+    .resume {
+        float: left;
+        width: 100px;
+        height: auto;
+        padding: 20px 20px 20px 20px;
+        border: 5px solid #91F4AC;
+        text-align: center;
+        }
+    .about {
+        float: right;
+        width: 100px;
+        height: auto;
+        padding: 20px 20px 20px 20px;
+        border: 5px solid #91F4AC;
+        text-align: center;
+        }
+    .writing {
+        float: right;
+        width: 100px;
+        height: auto;
+        padding: 20px 20px 20px 20px;
+        border: 5px solid #91F4AC;
+        text-align: center;
+        }
+    .clearfix {
+        margin: 25px;
+        }
+        
+
 
 
 
