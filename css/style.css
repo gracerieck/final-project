@@ -30,6 +30,8 @@ Of Ice and Snow #B7EAC3
 Verd #91F4AC
 
 */
+@import url(http://fonts.googleapis.com/css?family=Shadows+Into+Light);
+@import url(http://fonts.googleapis.com/css?family=Rock+Salt);
 
 body {
     
@@ -48,12 +50,12 @@ body {
         font-size: 1.125em; /*18px */
         }
     header {
-        font-size: 50px;
-        background-color: #91F4AC;
+        font-size: 110px;
+        font-family: 'Rock Salt', cursive;
+        background-image: url('../images/brickwall/brickwall.png');
         width: 100%;
         height: auto;
         text-align: center;
-        margin: 30px 30px 30px 30px;
         }
     .clearfix {
         margin: 25px;
