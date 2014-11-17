@@ -30,8 +30,8 @@ Of Ice and Snow #B7EAC3
 Verd #91F4AC
 
 */
-@import url(http://fonts.googleapis.com/css?family=Shadows+Into+Light);
 @import url(http://fonts.googleapis.com/css?family=Rock+Salt);
+@import url(http://fonts.googleapis.com/css?family=Shadows+Into+Light);
 
 body {
     background-image: url('../images/brickwall/brickwall.png');
@@ -39,18 +39,25 @@ body {
 
     h1 {
         font-size: 3em; /* 48px */
+        color: #91F4AC;
+        font-family: cursive;
+        margin: 0px;
         }
     h2 {
         font-size: 2.25em; /* 36px */
+        font-family: sans-serif;
         }
     h3 {
         font-size: 1.75em; /* 28px */
+        font-family: sans-serif;
         }
     h4 {
         font-size: 1.125em; /*18px */
+        font-family: sans-serif;
         }
     p {
-        font-size: 1.75em; /* 28px */
+        font-size: 1.6em;
+        font-family: sans-serif;
         }
     header {
         font-size: 110px;
@@ -59,10 +66,34 @@ body {
         width: 100%;
         height: auto;
         text-align: center;
+        color: #E09BB2;
         }
-    .clearfix {
+    img {
+        float: left;
+        }
+    .media {
+        float: left;
+        }
+    .media a {
+        color: #67CACC;
+        }
+    .media a:hover {
+        text-decoration: underline; 
+        }
+    .search {
+        float: right;
+        }
+    .second_navbar {
         margin: 25px;
         }
+    .home_bio {
+        margin: 25px;
+        border: 3px dashed #E09BB2;
+        background-color: #E09BB2;
+        width: auto;
+        height: 280px
+        }
+
         
 
 
