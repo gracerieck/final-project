@@ -34,7 +34,7 @@ Verd #91F4AC
 @import url(http://fonts.googleapis.com/css?family=Rock+Salt);
 
 body {
-    
+    background-image: url('../images/brickwall/brickwall.png');
     }
 
     h1 {
@@ -48,6 +48,9 @@ body {
         }
     h4 {
         font-size: 1.125em; /*18px */
+        }
+    p {
+        font-size: 1.75em; /* 28px */
         }
     header {
         font-size: 110px;
