@@ -124,6 +124,10 @@ a:hover {
     float: right;
     }
 
+img {
+    float:right;
+    }
+
 
 /* =======================================
     helper classes
