@@ -95,9 +95,8 @@ body {
         }
 
 .sidebar {
-    border: 2px solid black;
     height: auto;
-    width: 15%;
+    width: 20%;
     margin-left: auto;
     margin-right: auto;
     float: left;
@@ -118,14 +117,15 @@ a:hover {
 
 .resume {
     height: auto;
-    width: 85%;
+    width: 80%;
     margin-left: auto;
     margin-right: auto;
     float: right;
     }
 
 img {
-    float:right;
+    float: left;
+    /* position: fixed; */
     }
 
 
