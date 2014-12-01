@@ -94,9 +94,20 @@ body {
         height: 280px
         }
 
-        
+    .bar a {
+        padding: 15px 60px 0px 60px;
+        }
 
-
+    .site-footer {
+        background-color: #eeeeee;
+        text-align: center;
+        width: auto;
+        height: 60px;
+        /* float: inherit;
+        display: inline-block; */
+        border: 2px solid grey;
+        margin: 40px 20px 40px 20px;
+        }
 
 
 

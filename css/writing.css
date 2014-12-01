@@ -103,6 +103,10 @@ body {
     padding: 10px;
     }
 
+.bar a {
+    padding: 15px 60px 0px 60px;
+    }
+
 .title {
     text-size: 2em;
     }

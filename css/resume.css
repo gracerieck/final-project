@@ -115,6 +115,10 @@ a:hover {
     text-decoration: none;
     }
 
+.bar a {
+    padding: 15px 60px 0px 60px;
+    }
+
 .resume {
     height: auto;
     width: 80%;
