@@ -125,15 +125,17 @@ a:hover {
     }
 
 .city {
-    background-repeat: repeat-y;
-    background-image: url("../image/skyline-transparent");
+    background-image: url('../images/skyline-transparent.png');
+    background-repeat: repeat-x;
+    width: auto;
+    height: 100px;
     }
 
 .site-footer {
     background-color: black;
     text-align: center;
     width: auto;
-    height: 40px;
+    height: 45px;
     }
 
 /* =======================================

@@ -132,19 +132,18 @@ a:hover {
     /* position: fixed; */
     }
 
-.skyline {
-    
+.city {
+    background-image: url('../images/skyline-transparent.png');
+    background-repeat: repeat-x;
+    width: auto;
+    height: 100px;
     }
 
 .site-footer {
-    background-color: #eeeeee;
+    background-color: black;
     text-align: center;
     width: auto;
-    height: 60px;
-    /* float: inherit;
-    display: inline-block; */
-    border: 2px solid grey;
-    margin: 40px 20px 40px 20px;
+    height: 45px;
     }
 
 
