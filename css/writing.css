@@ -119,9 +119,14 @@ a:hover {
     text-decoration: none;
     }
 
-img {
+.headshot {
     float: left;
     /* position: fixed; */
+    }
+
+.city {
+    background-repeat: repeat-y;
+    background-image: url("../image/skyline-transparent");
     }
 
 .site-footer {

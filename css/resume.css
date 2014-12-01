@@ -127,9 +127,13 @@ a:hover {
     float: right;
     }
 
-img {
+.headshot {
     float: left;
     /* position: fixed; */
+    }
+
+.skyline {
+    
     }
 
 .site-footer {
