@@ -132,6 +132,16 @@ img {
     /* position: fixed; */
     }
 
+.site-footer {
+    background-color: #eeeeee;
+    text-align: center;
+    width: auto;
+    height: 60px;
+    /* float: inherit;
+    display: inline-block; */
+    border: 2px solid grey;
+    margin: 40px 20px 40px 20px;
+    }
 
 /* =======================================
     helper classes
