@@ -1,9 +1,6 @@
-/* =======================================
-    style.css
-    use this file for your custom styles
-========================================== */
+@import url(http://fonts.googleapis.com/css?family=Rock+Salt);
+@import url(http://fonts.googleapis.com/css?family=Shadows+Into+Light);
 
-/* use a box model that makes sense */
 *, *:before, *:after {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -30,8 +27,6 @@ Of Ice and Snow #B7EAC3
 Verd #91F4AC
 
 */
-@import url(http://fonts.googleapis.com/css?family=Rock+Salt);
-@import url(http://fonts.googleapis.com/css?family=Shadows+Into+Light);
 
 body {
     background-image: url('../images/brickwall/brickwall.png');
@@ -96,11 +91,11 @@ body {
 
 .sidebar {
     height: auto;
-    width: 20%;
+    width: 100%;
     margin-left: auto;
     margin-right: auto;
     float: left;
-    padding: 10px;
+    padding: 20px;
     }
 
 .title {
@@ -129,7 +124,7 @@ a:hover {
 
 .headshot {
     float: left;
-    /* position: fixed; */
+    margin-left: 20px;
     }
 
 .city {

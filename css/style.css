@@ -1,9 +1,6 @@
-/* =======================================
-    style.css
-    use this file for your custom styles
-========================================== */
+@import url(http://fonts.googleapis.com/css?family=Rock+Salt);
+@import url(http://fonts.googleapis.com/css?family=Shadows+Into+Light);
 
-/* use a box model that makes sense */
 *, *:before, *:after {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -30,8 +27,6 @@ Of Ice and Snow #B7EAC3
 Verd #91F4AC
 
 */
-@import url(http://fonts.googleapis.com/css?family=Rock+Salt);
-@import url(http://fonts.googleapis.com/css?family=Shadows+Into+Light);
 
 body {
     background-image: url('../images/brickwall/brickwall.png');
@@ -40,7 +35,7 @@ body {
     h1 {
         font-size: 3em; /* 48px */
         color: #91F4AC;
-        font-family: cursive;
+        font-family: 'Shadows Into Light', cursive;
         margin: 0px;
         }
     h2 {
