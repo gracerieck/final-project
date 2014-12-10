@@ -98,14 +98,6 @@ body {
     padding: 20px;
     }
 
-.title {
-    text-size: 2em;
-    }
-
-.active {
-    text-size: 2em;
-    }
-
 a:hover {
     text-decoration: none;
     }
