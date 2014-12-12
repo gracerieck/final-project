@@ -139,6 +139,15 @@ a:hover {
     color: #67CACC;
     }
 
+.organizations a {
+    color: black;
+    }
+
+.organizations a:hover {
+    color: #91F4AC;
+    text-decoration: underline;
+    }
+
 
 /* =======================================
     helper classes
