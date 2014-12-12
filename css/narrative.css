@@ -1,0 +1,44 @@
+@import url(http://fonts.googleapis.com/css?family=Shadows+Into+Light);
+
+body{
+    background-color: ;
+    font-family: 'Shadows Into Light', cursive;
+    background-image: url('../images/beach-palms-sea-background.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    font-size: 20px;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 10px;
+}
+
+h1 {
+    color: #5877FF;
+    margin-bottom: auto;
+    margin-top: auto;
+    text-size: 2em;
+}
+
+h2 {
+    color: #5877FF;
+    text-size: 2em;
+}
+
+h3 {
+    color: #5877FF;
+    text-size: 1.5em;
+}
+
+p {
+    color: #8549E8;
+    text-size: 1em;
+    padding: 10px;
+}
+
+footer {
+    padding: 85px;
+    }
