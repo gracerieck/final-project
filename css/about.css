@@ -41,6 +41,7 @@ body {
     h2 {
         font-size: 2.25em; /* 36px */
         font-family: sans-serif;
+        color: #67CACC;
         }
     h3 {
         font-size: 1.75em; /* 28px */
@@ -102,6 +103,8 @@ body {
     text-align: center;
     width: auto;
     height: 45px;
+    color: #E09BB2;
+    font-family: 'Rock Salt', cursive;
     }
 
 .fun-headshot {

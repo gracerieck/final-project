@@ -90,6 +90,10 @@ body {
         padding: 15px 60px 0px 60px;
         }
 
+.bio a {
+    color: #67CACC;
+    }
+
 .city {
     background-image: url('../images/skyline-transparent.png');
     background-repeat: repeat-x;
@@ -102,6 +106,8 @@ body {
     text-align: center;
     width: auto;
     height: 45px;
+    color: #E09BB2;
+    font-family: 'Rock Salt', cursive;
     }
 
 .bio {
